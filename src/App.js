@@ -1,10 +1,9 @@
-import "./App.css";
-import Navbar from "./Components/Navbar/navbar";
+import { EmailListing } from "./pages";
 
 function App() {
   return (
-    <div className="App">
-      <Navbar />
+    <div className="app">
+      <EmailListing />
     </div>
   );
 }
