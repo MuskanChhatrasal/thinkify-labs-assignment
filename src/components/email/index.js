@@ -1,1 +1,1 @@
-export { Email } from "./Email.js";
+export { Email } from "./Email";

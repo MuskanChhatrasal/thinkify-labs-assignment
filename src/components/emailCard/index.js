@@ -1,1 +1,1 @@
-export { EmailCard } from "./EmailCard.js";
+export { EmailCard } from "./EmailCard";
